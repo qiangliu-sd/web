@@ -1,8 +1,7 @@
 # My Personal Web Page
-	A working example with essential features for PyScript inside html
+	My articles on coding, investing, deratives, and other topics
 
 
 Know-how:
-- URL of this page, https://qiangliu-sd.github.io/web/
-- Go to [Qiang's web page](https://qiangliu-sd.github.io/web/)
+- [https://qiangliu-sd.github.io/web/][qliu_url], the URL of [Qiang's web page][qliu_url]
 
