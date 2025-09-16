@@ -12,7 +12,7 @@ Features:
 - No need to install Python
 
 How to run:
-- click [PyScript.html](PyScript.html)
+- click https://qiangliu-sd.github.io/web/PyScript.html
 	
 For details:
 - See [PyScript site](https://pyscript.net)
