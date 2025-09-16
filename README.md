@@ -8,11 +8,11 @@ This is uploaded to GitHub for two reasons:
 Features:
 - Bind button-click to Py-method using <button **py-click**="greeting">
 - Get user-input in Python via \<input id="name"\> with `document.querySelector("#name").value`
-- Set html-element in Python via \<p id="output"\> with `document.querySelector("#output").innerHTML=`
+- Set HTML-element in Python via \<p id="output"\> with `document.querySelector("#output").innerHTML=`
 - No need to install Python
 
 How to run:
-- double-click **PyScript.html**
+- click [PyScript.html](PyScript.html)
 	
 For details:
 - See [PyScript site](https://pyscript.net)
